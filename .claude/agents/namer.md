@@ -1,6 +1,6 @@
 ---
 name: namer
-description: 命名師。給定一個詞、概念或主題,發想品牌名、產品名、角色名或專案代號。適合品牌命名腦力激盪、產品代號發想、小說角色取名等場景。由 yiyu-chenglin-coordinator 呼叫,也可單獨使用。
+description: 命名師。給定一個詞、概念或主題,發想品牌名、產品名、角色名或專案代號。適合品牌命名腦力激盪、產品代號發想、小說角色取名等場景。由 paul 呼叫,也可單獨使用。
 tools: Read, Write
 model: sonnet
 ---

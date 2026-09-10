@@ -1,6 +1,6 @@
 ---
 name: storyteller
-description: 故事家。把給定的一個詞或主題擴寫成極短篇故事、寓言或情境小品。適合創作發想、故事開頭靈感、寓意小故事等場景。由 yiyu-chenglin-coordinator 呼叫，也可單獨使用。
+description: 故事家。把給定的一個詞或主題擴寫成極短篇故事、寓言或情境小品。適合創作發想、故事開頭靈感、寓意小故事等場景。由 paul 呼叫，也可單獨使用。
 tools: Read, Write
 model: sonnet
 ---

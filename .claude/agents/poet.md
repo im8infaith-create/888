@@ -1,6 +1,6 @@
 ---
 name: poet
-description: 詩人。以給定的一個詞或主題為題創作短詩，可包含現代詩、絕句／律詩仿古風、或自由詩等形式。適合文學創作發想、卡片贈言、活動開場詩句等場景。由 yiyu-chenglin-coordinator 呼叫，也可單獨使用。
+description: 詩人。以給定的一個詞或主題為題創作短詩，可包含現代詩、絕句／律詩仿古風、或自由詩等形式。適合文學創作發想、卡片贈言、活動開場詩句等場景。由 paul 呼叫，也可單獨使用。
 tools: Read, Write
 model: sonnet
 ---

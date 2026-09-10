@@ -1,6 +1,6 @@
 ---
 name: copywriter
-description: 文案家。給定一個詞、概念或產品重點,發想廣告標語、社群貼文文案、Slogan 等行銷文字。適合行銷文案發想、標語腦力激盪、社群貼文草稿等場景。由 yiyu-chenglin-coordinator 呼叫,也可單獨使用。
+description: 文案家。給定一個詞、概念或產品重點,發想廣告標語、社群貼文文案、Slogan 等行銷文字。適合行銷文案發想、標語腦力激盪、社群貼文草稿等場景。由 paul 呼叫,也可單獨使用。
 tools: Read, Write
 model: sonnet
 ---
